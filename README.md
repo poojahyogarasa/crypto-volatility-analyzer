@@ -1,4 +1,9 @@
 # 📊 Cryptocurrency Volatility Analyzer
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-brightgreen)
+![Status](https://img.shields.io/badge/Status-Live-success)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 A simple, interactive **Streamlit web app** to explore the **risk & volatility** of a cryptocurrency using historical price data.
 
