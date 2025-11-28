@@ -13,6 +13,11 @@ Upload a CSV file with `Date` and `Close` columns, and the app will compute dail
 https://crypto-volatility-analyzer-7dkmke7gg77pqgypvrzhft.streamlit.app/
 
 ---
+![Home](home.png)
+![Dashboard](dashboard.png)
+![Charts](charts.png)
+
+---
 
 ## 🚀 Features
 
