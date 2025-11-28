@@ -158,6 +158,7 @@ University of Jaffna, Sri Lanka
 🔗 **LinkedIn:** https://www.linkedin.com/in/poojahyogarasa  
 
 Passionate about software engineering, AI, data science, and building real-world tech projects.
+
 ---
 
 
